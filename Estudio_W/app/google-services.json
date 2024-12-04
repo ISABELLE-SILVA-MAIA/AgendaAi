@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332284520902",
+    "project_id": "estudiow-e5f7a",
+    "storage_bucket": "estudiow-e5f7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332284520902:android:6310cdcee8925c4b37aac7",
+        "android_client_info": {
+          "package_name": "com.example.estudio_w"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjf8O4BRCsxGSwmtAN6slYMxIA2M-cud4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
